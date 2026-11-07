@@ -1,0 +1,11 @@
+backend/.venv/
+backend/.env
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/tests/.test-results/
+frontend/node_modules/
+frontend/dist/
+results/**
+!results/.gitkeep

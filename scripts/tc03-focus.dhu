@@ -1,0 +1,9 @@
+sleep 3
+screenshot results/screenshots/tc03-before.png
+focus audio off
+sleep 5
+screenshot results/screenshots/tc03-focus-off.png
+focus audio on
+sleep 5
+screenshot results/screenshots/tc03-focus-on.png
+quit
